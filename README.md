@@ -3,3 +3,5 @@ this is a super coool training project
 test
 There are somemodule in here taken straight from odoo community, just as examples, please don't sue 
 Okay don't worry
+Made some changes
+K.O.
